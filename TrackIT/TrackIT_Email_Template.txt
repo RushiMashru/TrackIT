@@ -1,0 +1,28 @@
+FINAL Email Template
+====================
+
+To: PMO Email
+
+Cc: PMO Email 2, PC Email
+
+Subject: Sr:{SrNo} | TrackIT | {subject}
+   
+{subject} = {subject} | {ClientName}
+
+Body:
+		Hi, [PMO Name] –
+
+		Would you kindly confirm if the relevant project documents of the {ProjectName} engagement have been uploaded into Source.
+		
+		[PMO Name] please reply by using voting button.
+		
+		If possible, a response within 2 weeks would be much appreciated.
+	
+		{Body}
+
+		Many thanks,
+		Teresa 
+
+		--
+		Teresa Palmieri
+		Engagement Review Program Manager | Service Excellence

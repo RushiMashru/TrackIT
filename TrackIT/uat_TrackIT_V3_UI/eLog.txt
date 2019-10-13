@@ -1,0 +1,8 @@
+2019-10-03 17:41:13.904032 [email_inner_logic_exception]:
+	[Errno 13] Permission denied: 'C:\\Users\\mrushi\\Desktop\\ImpFiles\\TrackIT\\uat_TrackIT_V3_UI\\Test_TrackFollowup.xlsx'
+
+
+2019-10-03 17:41:14.712463 [email_inner_logic_exception]:
+	[Errno 13] Permission denied: 'C:\\Users\\mrushi\\Desktop\\ImpFiles\\TrackIT\\uat_TrackIT_V3_UI\\Test_TrackFollowup.xlsx'
+
+

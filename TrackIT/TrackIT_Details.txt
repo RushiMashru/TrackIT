@@ -1,0 +1,66 @@
+pyinstaller --onefile -n=MonitorOutlook CheckOutlookSubject.py
+
+TrackIt
+-------
+
+ -> Computer should be on during the process.
+
+Question:
+
+1) Will excel sheet have dublicate entries (Same Project Owner & Same Project Name)?
+
+2) What if computer was switched off for a day and program missed to send emails to Project Owner on that perticular day ?
+- One of the solution: Possibly, program can look back and change missed date to current date.
+
+3) Do we want to track defaulters ?
+
+4) Which time of the day we want to track down the response i.e. we can add new entry of the defaulters after 15 days from current date ?
+
+5) Few 	questions in sample file which was shared by Mon ?
+
+
+-------
+
+TrackIT 
+
+-> Make subject and body dynamic and logical at same time.
+
+-> Create a final excel file by using the one which TP shared and add the columns which can drive the program.
+
+-> Critical point: TrackIT should work even if the excel was open at some point of time.
+
+-> Get the feedback of new excel file and consume it in the program.
+
+-> Package the solution and get it install in different machines and find and handel various scenarios.
+
+
+FINAL INPUTS
+============
+To: PMO Email
+
+Cc: PMO Email 2, PC Email
+
+Subject: Sr:{SrNo} | TrackIT | {subject}    
+{subject} = {subject} | {ClientName}
+
+Body:
+		Hi, [PMO Name] –
+
+		Would you kindly confirm if the relevant project documents of the {ProjectName} engagement have been uploaded into Source.
+		
+		[PMO Name] please reply by using voting button.
+		
+		If possible, a response within 2 weeks would be much appreciated.
+	
+		{Body}
+
+		Many thanks,
+		Teresa 
+
+		--
+		Teresa Palmieri
+		Engagement Review Program Manager | Service Excellence
+		D: +1 (416) 601 6148 | M: +1 (416) 804 3741
+
+
+
